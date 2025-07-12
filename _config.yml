@@ -203,8 +203,8 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
+  #publications:
+    #output: false
     #permalink: /:collection/:path/
   portfolio:
     output: true
