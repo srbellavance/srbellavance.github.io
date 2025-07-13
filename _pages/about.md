@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION :)"
 author_profile: true
 redirect_from: 
   - /about/
