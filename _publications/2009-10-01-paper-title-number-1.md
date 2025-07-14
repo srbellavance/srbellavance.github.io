@@ -1,7 +1,7 @@
 ---
 title: "Glottalization Variation in Young Vermont Speakers"
 collection: publications
-#permalink: /publication/Bellavance2021_glottalization-variation-in-young-vermont-speakers
+permalink: /publication/Bellavance2021_glottalization-variation-in-young-vermont-speakers
 abstract: 'This paper is about the number 1. The number 2 is left for future work.'
 year: 2021
 journal: 'Journal 1'
