@@ -6,5 +6,5 @@ excerpt: 'Using visual spectrographic examination of vowel nasalization to diagn
 date: 2024-07-17
 venue: 'Journal of the Acoustical Society of America Express Letters'
 paperurl: '/files/published_papers/Bellavance_etal2024_vowel-nasalization-does-not-cue-ambisyllabicity-in-american-english-nasals-evidence-from-nasometry.pdf'
-citation: 'Bellavance, S. R., Eads, A., Katson, A., Álvarez Retamales, J., McCollum, A., Mitra, A., & Davidson, L. (2024). Vowel nasalization does not cue ambisyllabicity in American English nasals: Evidence from nasometry. <i>Journal of the Acoustical Society of America Express Letters, 4</i>(7).'
+citation: 'Bellavance, S. R., Eads, A., Katson, A., Álvarez Retamales, J., McCollum, A., Mitra, A., & Davidson, L. (2024). Vowel nasalization does not cue ambisyllabicity in American English nasals: Evidence from nasometry. <i>Journal of the Acoustical Society of America Express Letters, 4</i>(7). https://doi.org/10.1121/10.0027940'
 ---
