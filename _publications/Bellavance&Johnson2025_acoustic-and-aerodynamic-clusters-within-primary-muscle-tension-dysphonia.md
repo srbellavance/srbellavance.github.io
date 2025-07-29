@@ -6,5 +6,5 @@ excerpt: 'Primary muscle tension dysphonia (pMTD) is a form of vocal hyperfuncti
 date: 2025-09-01
 venue: 'Journal of Speech, Language, and Hearing Research'
 #paperurl: '/files/published_papers/Bellavance&Johnson2025_acoustic-and-aerodynamic-clusters-within-primary-muscle-tension-dysphonia.pdf'
-citation: 'Bellavance, S. R., & Johnson, A. M. (2025). Acoustic and aerodynamic clusters within primary muscle tension dysphonia. <i>Journal of Speech, Language, and Hearing Research</i>'
+citation: 'Bellavance, S. R., & Johnson, A. M. (in press). Acoustic and aerodynamic clusters within primary muscle tension dysphonia. <i>Journal of Speech, Language, and Hearing Research</i>.'
 ---
