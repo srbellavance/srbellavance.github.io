@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot1.jpg"
   name             : "Sarah Rose Bellavance"
+  pronunciation    : "se&#x0279;&#601; b&epsilonl&#601;v&aelig;ns"
   pronouns         : "they/she"  
   bio              : "PhD Candidate"
   #location         : "New York, NY"
@@ -137,7 +138,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -260,7 +261,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
@@ -278,7 +279,7 @@ sass:
 
 
 # Outputting
-  permalink: /:categories/:title/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
