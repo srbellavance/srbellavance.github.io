@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD Candidate in the Communicative Sciences and Disorders department at New York University. 
 
-I have always loved language. Discovering that language could be viewed as a science ("linguistics") was like opening a treasure chest. Melding this with the social life of language has become my life's work. I am particularly interested in all things sound, but it is neither the only nor the most important modality of language.
+Our voice is critical to our sense of self, and misalignment of how we sound and who we believe ourselves to be can drastically impact our quality of life, whether it be on the dimensions of gender presentation or dysphonia. Therefore, integrating sociolinguistic and clinical perspectives to provide patients with the best vocal care continues to be a central goal of my work.
 
-My current research focuses on the acoustic and social dimensions of pathologized and non-pathologized voice qualities using acoustic analysis, perception experiments, and automatic detection methods. For the past several years, I've been thinking and writing about vocal fry.
+My research focuses on the acoustic and social dimensions of pathologized and non-pathologized voice qualities using acoustic analysis, perception experiments, and automatic detection methods. For the past several years, I've been thinking and writing about vocal fry.
 
 My teaching experience includes introductory linguistics, (acoustic) phonetics, culturally responsive practices, and English as a new language. I follow the teacher-student + student-teacher philosophy championed by [Paolo Freire](https://en.wikipedia.org/wiki/Paulo_Freire).
 
