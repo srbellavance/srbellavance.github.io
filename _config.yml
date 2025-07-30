@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Sarah Rose Bellavance"
+title_separator          : ":"
 name                     : &name "Sarah Rose Bellavance"
 description              : &description "personal description"
 url                      : https://srbellavance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -22,7 +22,7 @@ repository               : "srbellavance/srbellavance.github.io"
 author:
   # Biographic information
   avatar           : "headshot1.jpg"
-  name             : "<p>Sarah Rose Bellavance</p> <p>seɹə bɛləvæns</p>"
+  name             : "seɹə ɹoz bɛləvæns"
   pronouns         : "they/she"  
   bio              : "PhD Candidate"
   #location         : "New York, NY"
