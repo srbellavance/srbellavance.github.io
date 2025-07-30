@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Sarah Rose Bellavance"
-title_separator          : ":"
+title_separator          : ""
 name                     : &name "Sarah Rose Bellavance"
 description              : &description "personal description"
 url                      : https://srbellavance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
