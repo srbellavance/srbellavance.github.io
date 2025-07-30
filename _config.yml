@@ -22,8 +22,7 @@ repository               : "srbellavance/srbellavance.github.io"
 author:
   # Biographic information
   avatar           : "headshot1.jpg"
-  name             : "Sarah Rose Bellavance"
-  pronunciation    : "seɹə bɛləvæns"
+  name             : "<p>Sarah Rose Bellavance</p> <p>seɹə bɛləvæns</p>"
   pronouns         : "they/she"  
   bio              : "PhD Candidate"
   #location         : "New York, NY"
@@ -114,7 +113,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=b7XUhOZ19NUh22gFCeHnwZGHoksMO5ctXp4vfnPTWJs
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
