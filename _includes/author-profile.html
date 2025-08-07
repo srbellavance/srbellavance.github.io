@@ -17,7 +17,11 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<div class="author__bio">
+    {{ author.bio }}
+    <br>
+    <a href="/files/Bellavance_CV_2025_08_02.pdf" target="_blank">CV</a>
+  </div>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -79,6 +83,10 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+            {% if author.openscienceframework %}
+        <li><a href="https://osf.io/profile/{{ author.openscienceframework }}"><i class="fab fa-fw fa-stack-osf icon-pad-right" aria-hidden="true"></i>OSF</a></li>
+      {% endif %}      
+
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
