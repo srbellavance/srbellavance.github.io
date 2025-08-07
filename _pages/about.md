@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the Communicative Sciences and Disorders department at New York University. 
-
-Other titles could be a scientist, a researcher, a teacher, or a lingust. In any capacity, I believe that our voice is critical to our sense of self, and misalignment of how we sound and who we believe ourselves to be can drastically impact our quality of life.
+I am a PhD Candidate in the Communicative Sciences and Disorders department at New York University. I'm also a speech scientist, a researcher, an educator, and a lingust. In any capacity, I believe that our voice is critical to our sense of self, and misalignment of how we sound and who we believe ourselves to be can drastically impact our quality of life.
 
 <strong>My research</strong> focuses on the acoustic and social dimensions of pathologized and non-pathologized voice qualities using acoustic analysis, perception experiments, and automatic detection methods. For the past several years, I've been thinking and writing about vocal fry. 
 
