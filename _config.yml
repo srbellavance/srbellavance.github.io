@@ -22,11 +22,11 @@ repository               : "srbellavance/srbellavance.github.io"
 author:
   # Biographic information
   avatar           : "headshot1.jpg"
-  name             : "sɛɹə ɹoz bɛləvæns"
+  name             : "/sɛɹə ɹoz bɛləvæns/"
   pronouns         : "they/she"  
-  bio              : "PhD Candidate"
+  bio              : "Bellavance_CV_2025_08_02.pdf"
   #location         : "New York, NY"
-  employer         : "New York University"
+  #employer         : "New York University"
   uri              : # URL
   email            : "srb664@nyu.edu" 
 
