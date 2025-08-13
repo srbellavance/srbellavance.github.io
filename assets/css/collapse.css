@@ -1,12 +1,12 @@
 .container {
     width:100%;
-    border:1px solid oklch(94.121% 0.01631 245.261);
+    border:1px solid #d3d3d3;
 }
 .container div {
     width:100%;
 }
 .container .header {
-    background-color: oklch(94.121% 0.01631 245.261);
+    background-color:#d3d3d3;
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
