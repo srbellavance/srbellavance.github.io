@@ -19,6 +19,7 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<div class="author__bio">
     {{ author.bio }}
+    <a>srb664@nyu.edu</a>
     <a href="/files/Bellavance_CV_2025_08_02.pdf" target="_blank" class="cv-link">CV</a>
   </div>{% endif %}
   </div>
@@ -36,9 +37,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-      {% if author.email %}
+      <!----{% if author.email %}
         <li><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{srb664@nyu.edu</li>
-      {% endif %}
+      {% endif %}--->
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
