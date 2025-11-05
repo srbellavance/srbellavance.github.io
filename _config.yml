@@ -15,6 +15,7 @@ description              : &description "personal description"
 url                      : https://srbellavance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srbellavance/srbellavance.github.io"
+theme: minimal_mistakes_jekyll
 minimal_mistakes_skin: "mint"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
